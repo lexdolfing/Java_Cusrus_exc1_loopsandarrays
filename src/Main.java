@@ -1,6 +1,10 @@
 import java.util.Objects;
 import java.util.Scanner;
 
+
+
+
+//MEDEDELING VOOR PEER-REVIEWER: MAIN EN HOMEWORK-LEX BRANCHES ZIJN HETZELFDE OMDAT IK EERST ALLES IN DE MAIN GEPUSHT HAD
 public class Main {
     public static void main(String[] args) {
         Integer[] numeric = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
